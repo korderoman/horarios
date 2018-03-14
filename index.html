@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!--Script y declaramos la carga asincrona -->
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/jquery.schedule.css">
+    <link rel="stylesheet" href="./css/estilo.css">
+    <title>Horarios</title>
+</head>
+<body>
+    <header>
+        <h1>Horarios FIIS-UNI</h1>
+    </header>
+    <div class="container-fluid">
+        <div class="row">
+            <!--Inicio de menu principal-->
+            <div id="menu" class="col-sm-12 col-md-4">
+                <!--Inicio de formulario-->
+               <div class="form-group">
+                   
+                    <!--Inicio de seccion 1, elegir el curso-->
+                  <div class="form-row">
+                      <!--Selección de área, esta entrega de acuerdo a la especialidad -->
+                      <div class="col-md-4">
+                            <label class="form-check-label" for="area">Área</label>
+                      </div>
+                      <div class="col-md-8">
+                        <select class="form-control" name="area" id="area" ><option value="0">Seleccione un Área</option></select>
+                        </div>
+                  </div>
+                      <!--Fin de selección de área -->
+                       <!-- Inicio de selección de curso, está sujeto al área que se elija, sino por defecto indicará que se debe elegir área-->
+                       <br>
+                    <div class="form-row">
+                        <div class="col-md-4">
+                            <label class="form-check-label" for="curso">Curso</label>
+                        </div>
+                        <div class="col-md-8">
+                            <select class="form-control" name="curso" id="curso" ><option value="0">Seleccione un Curso</option></select>
+                        </div>
+                    </div>               
+                      <!-- Fin de selección de curso-->
+                      <!--Inicio de selección de aula, está sujeto al curso que se elija, sino por defecta indicará que se debe elegir un curso-->
+                      <br>
+                      <div class="form-row">
+                        <div class="col-md-4">
+                            <label class="form-check-label" for="seccion">Sección</label>
+                        </div>
+                        <div class="col-md-8">
+                            <select class="form-control" name="seccion" id="seccion" ><option value="0">Seleccione una Sección</option></select>
+                        </div>
+                    </div> 
+                <!--Fin de selección de aula-->
+                 
+                  <!--Fin de seccion 1, elegir curso-->
+                  <!--Inicio de seccion2, mostrar elementos complementarios del curso-->
+                  <br>
+                  <div class="form-row">
+                        
+                        <div class="col-md-12 col-lg-12 col-xl-6">
+                          <input class="form-control" type="text" name="profesorT" id="profesorT"  placeholder="Docente T" disabled>
+                          <br>
+                        </div>
+
+                        <div class="col-md-12 col-lg-12 col-xl-6">
+                            <input class="form-control" type="text" name="profesorP" id="profesorP"   placeholder="Docente P" disabled>
+                            <br>
+                        </div>
+                       
+                       
+                     
+                    </div>
+                    <div class="form-row">
+                        
+                        <div class="col-md-12 col-lg-12 col-xl-6">
+                          <input class="form-control" type="text" name="aulaT" id="aulaT"    placeholder="Aula T" disabled>
+                          <br>
+                        </div>
+
+                        
+                       
+                        <div class="col-md-12 col-lg-12 col-xl-6">
+                            <input class="form-control" type="text" name="aulaP" id="aulaP"   placeholder="Aula P" disabled>
+                            <br>
+                        </div>
+                     
+                    </div>
+                    <!-- Fin de seccion 2, mostrar elementos complementarios del curso-->
+                    <button type="submit" class="btn btn-primary" id="aplicar">Aplicar</button>
+                   
+               </div>
+               <!--Fin de fomulario -->
+            </div>
+            <!--Fin de menu principal, donde se eligen la especialidad, el área, el curso, etc.-->
+            <!--Inicio de tabla -->
+            <div id="horario" class="col-sm-12 col-md-8 table-responsive">
+                    <!--Aquí se coloca la tabla-->
+            </div>
+        </div>
+
+            
+    </div>
+    
+    <script src="./js/jquery-3.3.1.js"></script>
+    <script src="./js/jquery-ui.js"></script>
+    <script src="./js/bootstrap.bundle.js"></script>
+    <script src="./js/jquery.schedule.js"></script>
+    <script src="./js/main.js" ></script>    
+</body>
+</html>
