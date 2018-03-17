@@ -9,8 +9,7 @@
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-212",
-		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL",
-		"": ""
+		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -22,8 +21,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-212",
-		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL",
-		"": ""
+		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -35,8 +33,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-204",
-		"docente": "VASQUEZ DOMINGUEZ RIQUELMER",
-		"": ""
+		"docente": "VASQUEZ DOMINGUEZ RIQUELMER"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -48,8 +45,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-204",
-		"docente": "VASQUEZ DOMINGUEZ RIQUELMER",
-		"": ""
+		"docente": "VASQUEZ DOMINGUEZ RIQUELMER"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -61,8 +57,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-110",
-		"docente": "KALA BEJAR LOURDES",
-		"": ""
+		"docente": "KALA BEJAR LOURDES"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -74,8 +69,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-110",
-		"docente": "KALA BEJAR LOURDES",
-		"": ""
+		"docente": "KALA BEJAR LOURDES"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -87,34 +81,31 @@
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-212",
-		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL",
-		"": ""
+		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL"
 	},
 	{
 		"area": "Ciencias Básicas",
 		"codigo": "CB-101",
 		"seccion": "X",
 		"nombre": "GEOMETRÍA ANALÍTICA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "4",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-201",
-		"docente": "ALVARADO RODRIGUEZ LUIS",
-		"": ""
+		"docente": "ALVARADO RODRIGUEZ LUIS"
 	},
 	{
 		"area": "Ciencias Básicas",
 		"codigo": "CB-101",
 		"seccion": "X",
 		"nombre": "GEOMETRÍA ANALÍTICA",
-		"tipo": "PD",
+		"tipo": "P",
 		"dia": "2",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-212",
-		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL",
-		"": ""
+		"docente": "ACOSTA DE LA CRUZ PEDRO RAÚL"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -126,8 +117,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-110",
-		"docente": "KALA BEJAR LOURDES",
-		"": ""
+		"docente": "KALA BEJAR LOURDES"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -135,12 +125,11 @@
 		"seccion": "U",
 		"nombre": "ALGEBRA LINEAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-110",
-		"docente": "KALA BEJAR LOURDES",
-		"": ""
+		"docente": "KALA BEJAR LOURDES"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -152,21 +141,19 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-216",
-		"docente": "HUAMAN SANCHEZ ALEJANDRO",
-		"": ""
+		"docente": "HUAMAN SANCHEZ ALEJANDRO"
 	},
 	{
 		"area": "Ciencias Básicas",
 		"codigo": "CB-111",
 		"seccion": "V",
 		"nombre": "ALGEBRA LINEAL",
-		"tipo": "PC",
-		"dia": "4",
+		"tipo": "P",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-216",
-		"docente": "HUAMAN SANCHEZ ALEJANDRO",
-		"": ""
+		"docente": "HUAMAN SANCHEZ ALEJANDRO"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -178,21 +165,19 @@
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S2-137",
-		"docente": "CHUNG CHING RICARDO ALEJANDRO",
-		"": ""
+		"docente": "CHUNG CHING RICARDO ALEJANDRO"
 	},
 	{
 		"area": "Ciencias Básicas",
 		"codigo": "CB-111",
 		"seccion": "W",
 		"nombre": "ALGEBRA LINEAL",
-		"tipo": "PC",
-		"dia": "4",
+		"tipo": "P",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-111",
-		"docente": "CHUNG CHING RICARDO ALEJANDRO",
-		"": ""
+		"docente": "CHUNG CHING RICARDO ALEJANDRO"
 	},
 	{
 		"area": "Ciencias Básicas",
@@ -272,7 +257,7 @@
 		"seccion": "U",
 		"nombre": "CALCULO DIFERENCIAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-209",
@@ -295,7 +280,7 @@
 		"codigo": "CB-121",
 		"seccion": "U",
 		"nombre": "CALCULO DIFERENCIAL",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "2",
 		"inicia": "12",
 		"termina": "14",
@@ -307,7 +292,7 @@
 		"codigo": "CB-121",
 		"seccion": "U",
 		"nombre": "CALCULO DIFERENCIAL",
-		"tipo": "PD",
+		"tipo": "P",
 		"dia": "4",
 		"inicia": "8",
 		"termina": "10",
@@ -379,7 +364,7 @@
 		"codigo": "CB-121",
 		"seccion": "W",
 		"nombre": "CALCULO DIFERENCIAL",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "2",
 		"inicia": "12",
 		"termina": "14",
@@ -440,7 +425,7 @@
 		"seccion": "U",
 		"nombre": "CALCULO NUMERICO",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-201",
@@ -452,7 +437,7 @@
 		"seccion": "V",
 		"nombre": "CALCULO NUMERICO",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-212/LAB. B",
@@ -512,7 +497,7 @@
 		"seccion": "V",
 		"nombre": "CALCULO INTEGRAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-208",
@@ -535,7 +520,7 @@
 		"codigo": "CB-131",
 		"seccion": "V",
 		"nombre": "CALCULO INTEGRAL",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "4",
 		"inicia": "14",
 		"termina": "16",
@@ -548,7 +533,7 @@
 		"seccion": "W",
 		"nombre": "CALCULO INTEGRAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-112",
@@ -632,7 +617,7 @@
 		"seccion": "V",
 		"nombre": "CALCULO MULTIVARIABLE",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-204",
@@ -823,7 +808,7 @@
 		"codigo": "CB-143",
 		"seccion": "U",
 		"nombre": "MATEMATICA APLICADA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "2",
 		"inicia": "14",
 		"termina": "16",
@@ -872,7 +857,7 @@
 		"seccion": "U",
 		"nombre": "QUIMICA GENERAL",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "17",
 		"aula": "LAB/S2-137",
@@ -884,7 +869,7 @@
 		"seccion": "V",
 		"nombre": "QUIMICA GENERAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "17",
 		"aula": "S4 - 211",
@@ -956,7 +941,7 @@
 		"seccion": "V",
 		"nombre": "QUIMICA BASICA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "13",
 		"aula": "S4-213",
@@ -1064,7 +1049,7 @@
 		"seccion": "U",
 		"nombre": "QUIMICA INDUSTRIAL II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "17",
 		"termina": "20",
 		"aula": "LAB/S2-137",
@@ -1112,7 +1097,7 @@
 		"seccion": "W",
 		"nombre": "QUIMICA INDUSTRIAL II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "13",
 		"termina": "16",
 		"aula": "LAB/S2-135",
@@ -1220,7 +1205,7 @@
 		"seccion": "W",
 		"nombre": "FISICA I",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-203",
@@ -1280,7 +1265,7 @@
 		"seccion": "U",
 		"nombre": "FISICA II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "15",
 		"aula": "S4-214",
@@ -1292,7 +1277,7 @@
 		"seccion": "U",
 		"nombre": "FISICA II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "15",
 		"aula": "S4-214",
@@ -1328,7 +1313,7 @@
 		"seccion": "V",
 		"nombre": "FISICA II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "19",
 		"aula": "LAB/S2-135",
@@ -1340,7 +1325,7 @@
 		"seccion": "V",
 		"nombre": "FISICA II",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "19",
 		"aula": "LAB/S2-135",
@@ -1364,7 +1349,7 @@
 		"seccion": "W",
 		"nombre": "FISICA II",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-212",
@@ -1436,7 +1421,7 @@
 		"seccion": "V",
 		"nombre": "FISICA MODERNA",
 		"tipo": "LAB",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "19",
 		"aula": "S4-208",
@@ -1447,7 +1432,7 @@
 		"codigo": "CB-402",
 		"seccion": "U",
 		"nombre": "ESTADISTICA Y PROBAB.",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "5",
 		"inicia": "10",
 		"termina": "12",
@@ -1483,8 +1468,8 @@
 		"codigo": "CB-402",
 		"seccion": "V",
 		"nombre": "ESTADISTICA Y PROBAB.",
-		"tipo": "PC",
-		"dia": "4",
+		"tipo": "P",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-208",
@@ -1507,7 +1492,7 @@
 		"codigo": "CB-402",
 		"seccion": "W",
 		"nombre": "ESTADISTICA Y PROBAB.",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "5",
 		"inicia": "12",
 		"termina": "14",
@@ -1531,8 +1516,8 @@
 		"codigo": "CB-402",
 		"seccion": "X",
 		"nombre": "ESTADISTICA Y PROBAB.",
-		"tipo": "PC",
-		"dia": "4",
+		"tipo": "P",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-208",
@@ -1542,9 +1527,9 @@
 		"area": "Ciencias Básicas",
 		"codigo": "CB-412",
 		"seccion": "U",
-		"nombre": "ESTADISTICA APLICADA.",
+		"nombre": "ESTADISTICA APLICADA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-204",
@@ -1554,8 +1539,8 @@
 		"area": "Ciencias Básicas",
 		"codigo": "CB-412",
 		"seccion": "U",
-		"nombre": "ESTADISTICA APLICADA.",
-		"tipo": "PC",
+		"nombre": "ESTADISTICA APLICADA",
+		"tipo": "P",
 		"dia": "1",
 		"inicia": "10",
 		"termina": "12",
@@ -1579,7 +1564,7 @@
 		"codigo": "CB-412",
 		"seccion": "V",
 		"nombre": "ESTADISTICA APLICADA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "1",
 		"inicia": "10",
 		"termina": "12",
@@ -1592,7 +1577,7 @@
 		"seccion": "U",
 		"nombre": "INTRODUCCIÓN A LA INGENIERÍA INDUSTRIAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-210",
@@ -1724,7 +1709,7 @@
 		"seccion": "V",
 		"nombre": "DISEÑO DEL TRABAJO I",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-202",
@@ -1748,7 +1733,7 @@
 		"seccion": "U",
 		"nombre": "DISEÑO DEL TRABAJO II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "19",
 		"aula": "S4-210",
@@ -1772,7 +1757,7 @@
 		"seccion": "V",
 		"nombre": "DISEÑO DEL TRABAJO II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-105",
@@ -1796,7 +1781,7 @@
 		"seccion": "W",
 		"nombre": "DISEÑO DEL TRABAJO II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "19",
 		"aula": "S4-210",
@@ -1916,7 +1901,7 @@
 		"seccion": "U",
 		"nombre": "DESARROLLO ORGANIZACIONAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "14",
 		"aula": "S4-110",
@@ -1928,7 +1913,7 @@
 		"seccion": "U",
 		"nombre": "DESARROLLO ORGANIZACIONAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-110",
@@ -2014,7 +1999,7 @@
 		"tipo": "T",
 		"dia": "1",
 		"inicia": "20",
-		"termina": "22",
+		"termina": "1 22",
 		"aula": "S4-203",
 		"docente": "MORILLO ROJAS DANIEL"
 	},
@@ -2024,7 +2009,7 @@
 		"seccion": "V",
 		"nombre": "ADMINISTRACIÓN DE RECURSOS HUMANOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-203",
@@ -2072,7 +2057,7 @@
 		"seccion": "U",
 		"nombre": "CONTABILIDAD FINANCIERA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-204",
@@ -2096,7 +2081,7 @@
 		"seccion": "V",
 		"nombre": "CONTABILIDAD FINANCIERA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-212",
@@ -2144,7 +2129,7 @@
 		"seccion": "U",
 		"nombre": "CONTABILIDAD DE COSTOS Y PRESUP.",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-204",
@@ -2240,7 +2225,7 @@
 		"seccion": "V",
 		"nombre": "ANÁLISIS ECONÓMICO EN INGENIERÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "14",
 		"aula": "S4-207 /LAB.D",
@@ -2264,7 +2249,7 @@
 		"seccion": "W",
 		"nombre": "ANÁLISIS ECONÓMICO EN INGENIERÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-214",
@@ -2276,7 +2261,7 @@
 		"seccion": "U",
 		"nombre": "GESTIÓN FINANCIERA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-213",
@@ -2300,7 +2285,7 @@
 		"seccion": "V",
 		"nombre": "GESTIÓN FINANCIERA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-111",
@@ -2312,7 +2297,7 @@
 		"seccion": "V",
 		"nombre": "GESTIÓN FINANCIERA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-111",
@@ -2456,7 +2441,7 @@
 		"seccion": "V",
 		"nombre": "LOGÍSTICA EMPRESARIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-203",
@@ -2472,7 +2457,7 @@
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-111",
-		"docente": "ZAMORA YANSI  RICHARD ISMAEL"
+		"docente": "ZAMORA YANSI RICHARD ISMAEL"
 	},
 	{
 		"area": "Gestión de la Producción",
@@ -2482,7 +2467,7 @@
 		"tipo": "P",
 		"dia": "5",
 		"inicia": "12",
-		"termina": "14",
+		"termina": "2",
 		"aula": "S4-111",
 		"docente": "ZAMORA YANSI RICHARD ISMAEL"
 	},
@@ -2528,7 +2513,7 @@
 		"seccion": "V",
 		"nombre": "MERCADOTECNIA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4 - 214",
@@ -2600,7 +2585,7 @@
 		"seccion": "U",
 		"nombre": "SISTEMAS PRODUCTIVOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "14",
 		"aula": "S4-209",
@@ -2624,7 +2609,7 @@
 		"seccion": "V",
 		"nombre": "SISTEMAS PRODUCTIVOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-209",
@@ -2648,7 +2633,7 @@
 		"seccion": "U",
 		"nombre": "PLANEAMIENTO Y CONTROL DE LA PRODUC.",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-202",
@@ -2684,7 +2669,7 @@
 		"seccion": "U",
 		"nombre": "COMERCIO INTERNACIONAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-111",
@@ -2696,7 +2681,7 @@
 		"seccion": "U",
 		"nombre": "COMERCIO INTERNACIONAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-111",
@@ -2710,7 +2695,7 @@
 		"tipo": "P",
 		"dia": "0",
 		"inicia": "16",
-		"termina": "18",
+		"termina": "1 18",
 		"aula": "S4-210",
 		"docente": "VILLANUEVA HERRERA JOSÉ ALBERTO"
 	},
@@ -3020,7 +3005,7 @@
 		"seccion": "V",
 		"nombre": "GESTIÓN DE NEGOCIOS I",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-203",
@@ -3056,7 +3041,7 @@
 		"seccion": "U",
 		"nombre": "DIAGNÓSTICO EMPRESARIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-213",
@@ -3068,7 +3053,7 @@
 		"seccion": "V",
 		"nombre": "DIAGNÓSTICO EMPRESARIAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-209",
@@ -3080,7 +3065,7 @@
 		"seccion": "V",
 		"nombre": "DIAGNÓSTICO EMPRESARIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-209",
@@ -3092,7 +3077,7 @@
 		"seccion": "U",
 		"nombre": "TÓPICOS DE INGENIERÍA INDUSTRIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-210",
@@ -3116,7 +3101,7 @@
 		"seccion": "U",
 		"nombre": "MICROECONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-210",
@@ -3140,7 +3125,7 @@
 		"seccion": "V",
 		"nombre": "MICROECONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-210",
@@ -3212,7 +3197,7 @@
 		"seccion": "U",
 		"nombre": "MACROECONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-201",
@@ -3236,7 +3221,7 @@
 		"seccion": "V",
 		"nombre": "MACROECONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-206",
@@ -3260,7 +3245,7 @@
 		"seccion": "W",
 		"nombre": "MACROECONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-109",
@@ -3296,7 +3281,7 @@
 		"seccion": "V",
 		"nombre": "DESARROLLO PERSONAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "9",
 		"aula": "S4-207",
@@ -3308,7 +3293,7 @@
 		"seccion": "V",
 		"nombre": "DESARROLLO PERSONAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "9",
 		"termina": "11",
 		"aula": "S4-207",
@@ -3368,7 +3353,7 @@
 		"seccion": "U",
 		"nombre": "IDEOLOGÍAS CONTEMPORÁNEAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-112",
@@ -3406,7 +3391,7 @@
 		"tipo": "P",
 		"dia": "4",
 		"inicia": "8",
-		"termina": "10",
+		"termina": "1 10",
 		"aula": "S4-112",
 		"docente": "HUERTA ORTEGA JAVIER"
 	},
@@ -3524,7 +3509,7 @@
 		"seccion": "U",
 		"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-216",
@@ -3548,7 +3533,7 @@
 		"seccion": "V",
 		"nombre": "METODOLOGÍA DE LA INVESTIGACIÓN CIENTÍFICA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-109",
@@ -3596,7 +3581,7 @@
 		"seccion": "V",
 		"nombre": "SOCIOLOGÍA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-205",
@@ -3716,7 +3701,7 @@
 		"seccion": "V",
 		"nombre": "CONSTITUCIÓN Y DERECHOS HUMANOS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-112",
@@ -3764,7 +3749,7 @@
 		"seccion": "V",
 		"nombre": "LEGISLACIÓN EMPRESARIAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-112",
@@ -3836,7 +3821,7 @@
 		"seccion": "V",
 		"nombre": "INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-211",
@@ -3848,7 +3833,7 @@
 		"seccion": "V",
 		"nombre": "INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-211",
@@ -3860,7 +3845,7 @@
 		"seccion": "U",
 		"nombre": "TEORÍA GENERAL DE SISTEMAS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-110",
@@ -3872,7 +3857,7 @@
 		"seccion": "U",
 		"nombre": "TEORÍA GENERAL DE SISTEMAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-110",
@@ -3932,7 +3917,7 @@
 		"seccion": "V",
 		"nombre": "TEORÍA DE SISTEMAS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "13",
 		"termina": "15",
 		"aula": "S4-205",
@@ -3944,7 +3929,7 @@
 		"seccion": "V",
 		"nombre": "TEORÍA DE SISTEMAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "15",
 		"termina": "17",
 		"aula": "S4-205",
@@ -3968,7 +3953,7 @@
 		"seccion": "U",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES I",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "12",
 		"termina": "14",
 		"aula": "S4-206",
@@ -3992,7 +3977,7 @@
 		"seccion": "V",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES I",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-203",
@@ -4004,7 +3989,7 @@
 		"seccion": "W",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES I",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-206",
@@ -4028,7 +4013,7 @@
 		"seccion": "X",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES I",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "10",
 		"termina": "12",
 		"aula": "S4-215",
@@ -4102,7 +4087,7 @@
 		"tipo": "T",
 		"dia": "2",
 		"inicia": "14",
-		"termina": "16",
+		"termina": "1 16",
 		"aula": "S4-203",
 		"docente": "MEDINA AQUINO LUIS FELIPE"
 	},
@@ -4136,7 +4121,7 @@
 		"seccion": "W",
 		"nombre": "TEORÍA DE DECISIONES",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-109",
@@ -4160,7 +4145,7 @@
 		"seccion": "U",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "LAB-E",
@@ -4208,7 +4193,7 @@
 		"seccion": "W",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "LAB-C",
@@ -4220,7 +4205,7 @@
 		"seccion": "X",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES II",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "LAB E",
@@ -4232,7 +4217,7 @@
 		"seccion": "X",
 		"nombre": "INVESTIGACIÓN DE OPERACIONES II",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-210",
@@ -4268,7 +4253,7 @@
 		"seccion": "V",
 		"nombre": "SIMULACIÓN",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-109",
@@ -4280,7 +4265,7 @@
 		"seccion": "V",
 		"nombre": "SIMULACIÓN",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "LAB-C",
@@ -4496,7 +4481,7 @@
 		"seccion": "U",
 		"nombre": "MODELAMIENTO DE DATOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-206",
@@ -4508,7 +4493,7 @@
 		"seccion": "V",
 		"nombre": "MODELAMIENTO DE DATOS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "LAB-B",
@@ -4520,7 +4505,7 @@
 		"seccion": "V",
 		"nombre": "MODELAMIENTO DE DATOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "LAB-B",
@@ -4712,7 +4697,7 @@
 		"seccion": "W",
 		"nombre": "ANÁLISIS Y DISEÑO DE SISTEMAS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "15",
 		"termina": "18",
 		"aula": "LAB D",
@@ -4724,7 +4709,7 @@
 		"seccion": "W",
 		"nombre": "ANÁLISIS Y DISEÑO DE SISTEMAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "19",
 		"aula": "LAB D",
@@ -4772,7 +4757,7 @@
 		"seccion": "V",
 		"nombre": "ADMINISTRACIÓN DE BASE DE DATOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-206",
@@ -4798,7 +4783,7 @@
 		"tipo": "T",
 		"dia": "0",
 		"inicia": "18",
-		"termina": "20",
+		"termina": "1 20",
 		"aula": "LAB-A",
 		"docente": "BRINGAS MASGO ISAAC ERNESTO"
 	},
@@ -4820,7 +4805,7 @@
 		"seccion": "V",
 		"nombre": "SEGURIDAD INFORMÁTICA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S1-224",
@@ -4832,7 +4817,7 @@
 		"seccion": "V",
 		"nombre": "SEGURIDAD INFORMÁTICA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S1-224",
@@ -5240,7 +5225,7 @@
 		"seccion": "U",
 		"nombre": "ADMINISTRACIÓN DE LA CALIDAD DE SOFTWARE",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-205",
@@ -5252,7 +5237,7 @@
 		"seccion": "U",
 		"nombre": "ADMINISTRACIÓN DE LA CALIDAD DE SOFTWARE",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-205",
@@ -5432,7 +5417,7 @@
 		"seccion": "V",
 		"nombre": "AUDITORÍA DE SISTEMAS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "LAB-F",
@@ -5444,7 +5429,7 @@
 		"seccion": "V",
 		"nombre": "AUDITORÍA DE SISTEMAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "LAB-F",
@@ -5494,7 +5479,7 @@
 		"tipo": "P",
 		"dia": "5",
 		"inicia": "9",
-		"termina": "13",
+		"termina": "1 13",
 		"aula": "S4-110",
 		"docente": "RAMOS MORENO JAIME IGNACIO"
 	},
@@ -5672,7 +5657,7 @@
 		"seccion": "V",
 		"nombre": "SISTEMAS DE COMUNICACIÓN DE DATOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "LAB-B",
@@ -5708,7 +5693,7 @@
 		"seccion": "U",
 		"nombre": "COMERCIO ELECTRONICO",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "LAB-D",
@@ -5768,7 +5753,7 @@
 		"seccion": "V",
 		"nombre": "INTELIGENCIA ARTIFICIAL",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "LAB-A",
@@ -5780,7 +5765,7 @@
 		"seccion": "V",
 		"nombre": "INTELIGENCIA ARTIFICIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "LAB-A",
@@ -5811,7 +5796,7 @@
 		"docente": "ZELA MORAYA WESTER EDISON"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-103",
 		"seccion": "U",
 		"nombre": "ELECTRICIDAD Y ELECTRÓNICA INDUSTRIAL",
@@ -5823,19 +5808,19 @@
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-103",
 		"seccion": "U",
 		"nombre": "ELECTRICIDAD Y ELECTRÓNICA INDUSTRIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-215",
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-103",
 		"seccion": "V",
 		"nombre": "ELECTRICIDAD Y ELECTRÓNICA INDUSTRIAL",
@@ -5847,7 +5832,7 @@
 		"docente": "BENITES YARLEQUÉ JOSÉ VALERIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-103",
 		"seccion": "V",
 		"nombre": "ELECTRICIDAD Y ELECTRÓNICA INDUSTRIAL",
@@ -5859,7 +5844,7 @@
 		"docente": "BENITES YARLEQUÉ JOSÉ VALERIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-113",
 		"seccion": "U",
 		"nombre": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
@@ -5871,7 +5856,7 @@
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-113",
 		"seccion": "U",
 		"nombre": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
@@ -5883,19 +5868,19 @@
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-113",
 		"seccion": "U",
 		"nombre": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "S4-215",
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-113",
 		"seccion": "V",
 		"nombre": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
@@ -5907,7 +5892,7 @@
 		"docente": "BORJA ROSALES RUBÉN ARTURO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-113",
 		"seccion": "V",
 		"nombre": "SISTEMAS ELÉCTRICOS Y ELECTRÓNICOS",
@@ -5919,7 +5904,7 @@
 		"docente": "BORJA ROSALES RUBÉN ARTURO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-123",
 		"seccion": "U",
 		"nombre": "SISTEMAS DIGITALES",
@@ -5931,19 +5916,19 @@
 		"docente": "CARRANZA MILLA EMERSON"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-123",
 		"seccion": "U",
 		"nombre": "SISTEMAS DIGITALES",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-109",
 		"docente": "CARRANZA MILLA EMERSON"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-123",
 		"seccion": "V",
 		"nombre": "SISTEMAS DIGITALES",
@@ -5955,7 +5940,7 @@
 		"docente": "GALVEZ LEGUA MAURICIO PEDRO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-123",
 		"seccion": "V",
 		"nombre": "SISTEMAS DIGITALES",
@@ -5967,7 +5952,7 @@
 		"docente": "GALVEZ LEGUA MAURICIO PEDRO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-203",
 		"seccion": "U",
 		"nombre": "MAQUINARIA E INSTRUMENTACIÓN INDUSTRIAL",
@@ -5979,19 +5964,19 @@
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-203",
 		"seccion": "U",
 		"nombre": "MAQUINARIA E INSTRUMENTACIÓN INDUSTRIAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "14",
 		"termina": "16",
 		"aula": "S4-207",
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-203",
 		"seccion": "V",
 		"nombre": "MAQUINARIA E INSTRUMENTACIÓN INDUSTRIAL",
@@ -6003,7 +5988,7 @@
 		"docente": "TARAZONA PONTE SANTIAGO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-203",
 		"seccion": "V",
 		"nombre": "MAQUINARIA E INSTRUMENTACIÓN INDUSTRIAL",
@@ -6015,7 +6000,7 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-213",
 		"seccion": "U",
 		"nombre": "FISICOQUÍMICA Y OPERACIONES UNITARIAS",
@@ -6027,7 +6012,7 @@
 		"docente": "PARRA OSORIO HERNÁN JULIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-213",
 		"seccion": "U",
 		"nombre": "FISICOQUÍMICA Y OPERACIONES UNITARIAS",
@@ -6039,7 +6024,7 @@
 		"docente": "PARRA OSORIO HERNÁN JULIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-213",
 		"seccion": "V",
 		"nombre": "FISICOQUÍMICA Y OPERACIONES UNITARIAS",
@@ -6051,19 +6036,19 @@
 		"docente": "CHAFLOQUE ELÍAS CARLOS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-213",
 		"seccion": "V",
 		"nombre": "FISICOQUÍMICA Y OPERACIONES UNITARIAS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "11",
 		"aula": "S4-214",
 		"docente": "CHAFLOQUE ELÍAS CARLOS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "U",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6075,7 +6060,7 @@
 		"docente": "PARRA OSORIO HERNÁN JULIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "U",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6087,7 +6072,7 @@
 		"docente": "PARRA OSORIO HERNÁN JULIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "V",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6099,7 +6084,7 @@
 		"docente": "RONDINEL PINEDA PETRA ELINE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "V",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6111,7 +6096,7 @@
 		"docente": "RONDINEL PINEDA PETRA ELINE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "W",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6123,7 +6108,7 @@
 		"docente": "OSORIO MARUJO BILMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-223",
 		"seccion": "W",
 		"nombre": "PROCESOS INDUSTRIALES I",
@@ -6135,7 +6120,7 @@
 		"docente": "OSORIO MARUJO BILMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-224",
 		"seccion": "U",
 		"nombre": "PROCESOS INDUSTRIALES II",
@@ -6147,7 +6132,7 @@
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-224",
 		"seccion": "U",
 		"nombre": "PROCESOS INDUSTRIALES II",
@@ -6159,7 +6144,7 @@
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-224",
 		"seccion": "V",
 		"nombre": "PROCESOS INDUSTRIALES II",
@@ -6171,7 +6156,7 @@
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-224",
 		"seccion": "V",
 		"nombre": "PROCESOS INDUSTRIALES II",
@@ -6183,31 +6168,31 @@
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-244",
 		"seccion": "U",
 		"nombre": "ANÁLISIS DE MANUFACTURA",
 		"tipo": "T",
 		"dia": "1",
 		"inicia": "16",
-		"termina": "18",
+		"termina": "1 18",
 		"aula": "S4-205",
 		"docente": "HUAMÁN URETA PEÑAFORT LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-244",
 		"seccion": "U",
 		"nombre": "ANÁLISIS DE MANUFACTURA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-201",
 		"docente": "HUAMÁN URETA PEÑAFORT LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-244",
 		"seccion": "V",
 		"nombre": "ANÁLISIS DE MANUFACTURA",
@@ -6219,43 +6204,43 @@
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-244",
 		"seccion": "V",
 		"nombre": "ANÁLISIS DE MANUFACTURA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-207",
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "U",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "AUTOMAT.",
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "U",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "20",
 		"termina": "22",
 		"aula": "AUTOMAT.",
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "V",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
@@ -6267,7 +6252,7 @@
 		"docente": "ZÚÑIGA MERCADO ANTONIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "V",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
@@ -6279,7 +6264,7 @@
 		"docente": "ZÚÑIGA MERCADO ANTONIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "W",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
@@ -6291,7 +6276,7 @@
 		"docente": "ZÚÑIGA MERCADO ANTONIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-254",
 		"seccion": "W",
 		"nombre": "AUTOMATIZACIÓN Y CONTROL DE PROCESOS",
@@ -6303,7 +6288,7 @@
 		"docente": "ZÚÑIGA MERCADO ANTONIO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "U",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6315,7 +6300,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "U",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6327,11 +6312,11 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "U",
 		"nombre": "DIBUJO EN INGENIERÍA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "0",
 		"inicia": "14",
 		"termina": "16",
@@ -6339,7 +6324,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "V",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6351,7 +6336,7 @@
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "V",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6363,11 +6348,11 @@
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "V",
 		"nombre": "DIBUJO EN INGENIERÍA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "0",
 		"inicia": "14",
 		"termina": "16",
@@ -6375,7 +6360,7 @@
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "W",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6387,7 +6372,7 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "W",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6399,11 +6384,11 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "W",
 		"nombre": "DIBUJO EN INGENIERÍA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "0",
 		"inicia": "14",
 		"termina": "16",
@@ -6411,19 +6396,19 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "X",
 		"nombre": "DIBUJO EN INGENIERÍA",
 		"tipo": "T",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "8",
 		"termina": "10",
 		"aula": "S4-111",
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "X",
 		"nombre": "DIBUJO EN INGENIERÍA",
@@ -6435,11 +6420,11 @@
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-301",
 		"seccion": "X",
 		"nombre": "DIBUJO EN INGENIERÍA",
-		"tipo": "PC",
+		"tipo": "P",
 		"dia": "0",
 		"inicia": "14",
 		"termina": "16",
@@ -6447,7 +6432,7 @@
 		"docente": "MONZÓN FERNÁNDEZ JORGE FELIPE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "U",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6459,7 +6444,7 @@
 		"docente": "CIEZA DE LEÓN TUESTA EDUARDO JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "U",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6471,7 +6456,7 @@
 		"docente": "CIEZA DE LEÓN TUESTA EDUARDO JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "V",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6483,7 +6468,7 @@
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "V",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6495,7 +6480,7 @@
 		"docente": "MUÑOZ INGA CARLOS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "W",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6507,7 +6492,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-302",
 		"seccion": "W",
 		"nombre": "DISEÑO ASISTIDO POR COMPUTADORA",
@@ -6519,7 +6504,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-303",
 		"seccion": "U",
 		"nombre": "INGENIERÍA DE MATERIALES",
@@ -6531,19 +6516,19 @@
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-303",
 		"seccion": "U",
 		"nombre": "INGENIERÍA DE MATERIALES",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-207",
 		"docente": "CRUZ FIGUEROA GUILLERMO ROLDÁN"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-303",
 		"seccion": "V",
 		"nombre": "INGENIERÍA DE MATERIALES",
@@ -6555,7 +6540,7 @@
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-303",
 		"seccion": "V",
 		"nombre": "INGENIERÍA DE MATERIALES",
@@ -6567,7 +6552,7 @@
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-304",
 		"seccion": "U",
 		"nombre": "DISEÑO EN INGENIERÍA",
@@ -6579,19 +6564,19 @@
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-304",
 		"seccion": "U",
 		"nombre": "DISEÑO EN INGENIERÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-110",
 		"docente": "AGÜERO MAURICIO ALFREDO ROLANDO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-304",
 		"seccion": "V",
 		"nombre": "DISEÑO EN INGENIERÍA",
@@ -6603,7 +6588,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-304",
 		"seccion": "V",
 		"nombre": "DISEÑO EN INGENIERÍA",
@@ -6615,7 +6600,7 @@
 		"docente": "CALLO MOSCOSO LUIS ALBERTO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-313",
 		"seccion": "U",
 		"nombre": "DISEÑO GRÁFICO",
@@ -6627,7 +6612,7 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-313",
 		"seccion": "U",
 		"nombre": "DISEÑO GRÁFICO",
@@ -6639,7 +6624,7 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-313",
 		"seccion": "U",
 		"nombre": "DISEÑO GRÁFICO",
@@ -6651,7 +6636,7 @@
 		"docente": "MONCADA CAJAVILCA VÍCTOR JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-314",
 		"seccion": "U",
 		"nombre": "INGENIERÍA DEL PRODUCTO",
@@ -6663,19 +6648,19 @@
 		"docente": "HUAMÁN URETA PEÑAFORT LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-314",
 		"seccion": "U",
 		"nombre": "INGENIERÍA DEL PRODUCTO",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "21",
 		"aula": "S4-201",
 		"docente": "HUAMÁN URETA PEÑAFORT LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-314",
 		"seccion": "V",
 		"nombre": "INGENIERÍA DEL PRODUCTO",
@@ -6687,7 +6672,7 @@
 		"docente": "CIEZA DE LEÓN TUESTA EDUARDO JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-314",
 		"seccion": "V",
 		"nombre": "INGENIERÍA DEL PRODUCTO",
@@ -6699,7 +6684,7 @@
 		"docente": "CIEZA DE LEÓN TUESTA EDUARDO JOSÉ"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-324",
 		"seccion": "U",
 		"nombre": "ERGONOMÍA",
@@ -6711,19 +6696,19 @@
 		"docente": "KRAJNIK STULIN FRANCO LUIANO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-324",
 		"seccion": "U",
 		"nombre": "ERGONOMÍA",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-216",
 		"docente": "KRAJNIK STULIN FRANCO LUIANO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-404",
 		"seccion": "U",
 		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
@@ -6735,7 +6720,7 @@
 		"docente": "ANCO BONIFAZ HERLINDA IRMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-404",
 		"seccion": "U",
 		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
@@ -6747,7 +6732,7 @@
 		"docente": "ANCO BONIFAZ HERLINDA IRMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-404",
 		"seccion": "V",
 		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
@@ -6759,7 +6744,7 @@
 		"docente": "ANCO BONIFAZ HERLINDA IRMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-404",
 		"seccion": "V",
 		"nombre": "HIGIENE Y SEGURIDAD INDUSTRIAL",
@@ -6771,7 +6756,7 @@
 		"docente": "ANCO BONIFAZ HERLINDA IRMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-414",
 		"seccion": "U",
 		"nombre": "INTRODUCCIÓN A LA INGENIERÍA AMBIENTAL",
@@ -6783,7 +6768,7 @@
 		"docente": "ANCO BONIFAZ HERLINDA IRMA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-503",
 		"seccion": "U",
 		"nombre": "CONTROL ESTADÍSTICO DE PROCESOS",
@@ -6795,7 +6780,7 @@
 		"docente": "LAU CARRILLO CARMEN IVONNE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-503",
 		"seccion": "U",
 		"nombre": "CONTROL ESTADÍSTICO DE PROCESOS",
@@ -6807,7 +6792,7 @@
 		"docente": "LAU CARRILLO CARMEN IVONNE"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-503",
 		"seccion": "V",
 		"nombre": "CONTROL ESTADÍSTICO DE PROCESOS",
@@ -6819,7 +6804,7 @@
 		"docente": "ACUÑA PINAUD LEONCIO LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-503",
 		"seccion": "V",
 		"nombre": "CONTROL ESTADÍSTICO DE PROCESOS",
@@ -6831,7 +6816,7 @@
 		"docente": "ACUÑA PINAUD LEONCIO LUIS"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-505",
 		"seccion": "U",
 		"nombre": "GESTIÓN Y ASEGURAMIENTO DE CALIDAD TOTAL",
@@ -6843,19 +6828,19 @@
 		"docente": "EGÚZQUIZA FIGUEROA MARÍA ENERINA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-505",
 		"seccion": "U",
 		"nombre": "GESTIÓN Y ASEGURAMIENTO DE CALIDAD TOTAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "16",
 		"termina": "18",
 		"aula": "S4-202",
 		"docente": "EGÚZQUIZA FIGUEROA MARÍA ENERINA"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-505",
 		"seccion": "V",
 		"nombre": "GESTIÓN Y ASEGURAMIENTO DE CALIDAD TOTAL",
@@ -6867,12 +6852,12 @@
 		"docente": "KRAJNIK STULIN FRANCO LUIANO"
 	},
 	{
-		"area": "Tecnologías de la Producción",
+		"area": "Tecnología de la Producción",
 		"codigo": "TP-505",
 		"seccion": "V",
 		"nombre": "GESTIÓN Y ASEGURAMIENTO DE CALIDAD TOTAL",
 		"tipo": "P",
-		"dia": "4",
+		"dia": "3",
 		"inicia": "18",
 		"termina": "20",
 		"aula": "S4-216",
