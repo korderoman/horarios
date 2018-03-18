@@ -1,4 +1,7 @@
 /**
+ * metodo openOptions- popup modificado, anulada su funcionalidad
+ * linea 115 modificada, options edit, se elimina la opción se agregar periodos
+ * period events  modificada.
  * jQuery Schedule v2.0.0
  * https://github.com/Yehzuna/jquery-schedule
  * Thomas BORUSZEWSKI <yehzuna@outlook.com>
@@ -113,6 +116,7 @@
 
             if (this.settings.mode === "edit") {
                 // add a new period
+                /*
                 var position = 0;
                 var helper = false;
                 $(this.element).on("mousedown", ".jqs-day", function (event) {
@@ -171,7 +175,7 @@
                         helper.remove();
                         helper = false;
                     }
-                });
+                });*/
 
                 // delete a period
                 $(this.element).on("click", ".jqs-period-remove", function () {
@@ -299,10 +303,11 @@
             // period events
             if (this.settings.mode === "edit") {
                 var $this = this;
-
+/*
                 period.draggable({
                     grid: [0, this.periodPosition],
                     containment: "parent",
+                    
                     drag: function (event, ui) {
                         $(".jqs-period-time", ui.helper).text($this.periodDrag(ui));
                         $this.closeOptions();
@@ -334,7 +339,7 @@
                             });
                         }
                     }
-                });
+                });*/
 
                 if (this.settings.periodOptions) {
                     period.click(function (event) {
@@ -357,6 +362,7 @@
          * @param period
          */
         openOptions: function (event, period) {
+            
             var $this = this;
             $this.closeOptions();
 
@@ -433,6 +439,7 @@
             $(".jqs-options-close", this.element).click(function () {
                 $this.closeOptions();
             });
+            
         },
 
         /**
@@ -458,6 +465,7 @@
          * @returns {string}
          */
         periodDrag: function (ui) {
+            
             var start = Math.round(ui.position.top / this.periodPosition);
             var end = Math.round(($(ui.helper).height() + ui.position.top) / this.periodPosition);
 

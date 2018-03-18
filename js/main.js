@@ -1,5 +1,3 @@
-
-
 $(document).ready(function(){
    
     $.getJSON("./js/bbdd.json", function (data) {
@@ -26,11 +24,12 @@ class Horarios{
 
     crearTabla(){
         $("#horario").jqs({
-            mode: "read",
+            mode: "edit",
             hour: 24,
             periodDuration: 60,
             data: [],
-            periodOptions: true,
+            periodOptions: false,
+            periodRemoveButton: "Eliminar",
             days: ["Lu","Ma","Mi","Ju","Vi","Sa"],
             
         });
@@ -56,6 +55,7 @@ class Horarios{
            //código eliminado de splice de arreglo cursos, pero no tiene sentido colocarlo, solo hago esa observación
             if(self.area!=0){
                 for(let i=0;i<self.datos.length;i++){if(self.datos[i].area==self.area){arregloAux.push(self.datos[i].nombre);}}
+                //arregloAux=self.datos.map(function (x) {return  x.nombre; });
                 arregloCursos=self.eliminarDuplicados(arregloAux); 
                 // console.log(arregloCursos); permite revisar los elementos del array en consola
                 $("#curso").append("<option value='0'>"+"Seleccione un Curso"+"</option>");
@@ -88,6 +88,7 @@ class Horarios{
             self.curso=$("#curso").val();
             if(self.curso!=0){
                     for(let i=0;i<self.datos.length;i++){if(self.datos[i].nombre==self.curso){arregloAux.push(self.datos[i].seccion);}}
+                   // arregloAux=self.datos.map(function (x) {if(x.curso==self.curso){ return x.seccion;}});
                     arregloSeccion=self.eliminarDuplicados(arregloAux); 
                    // console.log(arregloCursos); permite revisar los elementos del array en consola
                    $("#seccion").append("<option value='0'>"+"Seleccione una Sección"+"</option>");
@@ -128,16 +129,17 @@ class Horarios{
         let self=this;
         $("#aplicar").click(function (e) { 
             e.preventDefault();
+            let c1=Math.round(Math.random()*255);
+            let c2=Math.round(Math.random()*255);
+            let c3=Math.round(Math.random()*255);
             for(let i=0;i<self.posiciones.length;i++){
-                $("#horario").jqs('import',[self.crearObjeto(self.posiciones[i])]);
+                $("#horario").jqs('import',[self.crearObjeto(self.posiciones[i],c1,c2,c3)]);
             }
         });
     }
     //funciones auxiliares
-    crearObjeto(posicion){
-        let c1=Math.round(Math.random()*255);
-        let c2=Math.round(Math.random()*255);
-        let c3=Math.round(Math.random()*255);
+    crearObjeto(posicion,c1,c2,c3){
+        
         if(typeof posicion==="number"){
             return {
                 "day":parseInt(this.datos[posicion].dia),
@@ -157,6 +159,5 @@ class Horarios{
         for(i in obj){out.push(i);}
         return out;
     }
-
 }
 
